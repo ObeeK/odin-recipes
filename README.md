@@ -9,3 +9,5 @@
 ## License
     MIT
 
+## Credits
+    The Odin Project
